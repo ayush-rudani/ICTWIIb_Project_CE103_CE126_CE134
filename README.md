@@ -1,4 +1,4 @@
-<b>Project -></b> Student Result Management System
+<h2><b>Project -></b> Student Result Management System</h2>
 
 Langauges used - PHP + HTML + CSS + JS
 
